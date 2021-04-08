@@ -5,7 +5,7 @@
 Hoje quero ampliar meus conhecimento e estou aprendendo HTML e CSS para futuramente me tornar um Desenvolvedor Full Stack.
 
 -  :books: Formação: Gestão da Tecnologia da Informação.
--  ⭐Redes Sociais: [Linkedin](https://www.linkedin.com/in/maikywilliam/) e [Instagram](instagram.com/maiky_william/)
+-  ⭐Redes Sociais: [Linkedin](https://www.linkedin.com/in/maikywilliam/) e [Instagram](https://www.instagram.com/maiky_william/)
 -  :email: Email: maiky.williamfs@gmail.com.
 -  :calling: Contato: (51) 99657-4565.
 
