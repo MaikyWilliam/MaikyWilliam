@@ -8,6 +8,6 @@ Hoje quero ampliar meus conhecimento e estou aprendendo HTML5 e CSS3 para futura
 -  :email: Email: maiky.williamfs@gmail.com.
 -  :calling: Contato: (51) 99657-4565.
 -  ⭐Redes Sociais: 
--  [<img src="Imagens/icon-linkedin.png" width="30">](https://www.linkedin.com/in/maikywilliam/) [<img src="Imagens/icon-insta.png" width="30" text-aling="center">](https://www.instagram.com/maiky_william/)
+[<img src="Imagens/icon-linkedin.png" width="30">](https://www.linkedin.com/in/maikywilliam/) [<img src="Imagens/icon-insta.png" width="30" text-aling="center">](https://www.instagram.com/maiky_william/)
 ## Obrigado por Visitar!
 
