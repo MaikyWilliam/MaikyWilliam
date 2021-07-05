@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-  Atualmente sou Desenvolvedor RPA junior, já tiveve experiencia profissional como backend com a linguagem Visual Basic e banco de Dados Oracle e SQLServer.
+  Atualmente sou Desenvolvedor RPA junior, já tive experiência profissional como backend com a linguagem Visual Basic e banco de Dados Oracle e SQLServer.
   
 Sigo estudando, para evoluir cada dia mais.
 
