@@ -1,4 +1,4 @@
-### Olá Pessoal! 👋
+### Olá! 👋
 
   Atualmente sou Desenvolvedor RPA junior, já tiveve experiencia profissional como backend com a linguagem Visual Basic e banco de Dados Oracle e SQLServer.
   
