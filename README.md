@@ -1,4 +1,4 @@
-### Olá! 👋 Atualmente sou Desenvolvedor RPA junior
+### Olá! 👋 Atualmente sou Desenvolvedor RPA
 
 -  :books: Formação: Gestão da Tecnologia da Informação.
 -  :email: Email: maiky.williamfs@gmail.com.
