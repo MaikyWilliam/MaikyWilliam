@@ -7,13 +7,13 @@
     [<img src="Imagens/ld.png" width="30">](https://www.linkedin.com/in/maikywilliam/) [<img src="Imagens/ig.png" width="30" text-aling="center">](https://www.instagram.com/maiky_william/)
 
 ## 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/MaikyWilliam">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MaikyWilliam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikyWilliam&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
     
-##  
+<!-- ##   -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Maiky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maiky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
