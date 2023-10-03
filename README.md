@@ -7,11 +7,14 @@
     [<img src="Imagens/ld.png" width="30">](https://www.linkedin.com/in/maikywilliam/) [<img src="Imagens/ig.png" width="30" text-aling="center">](https://www.instagram.com/maiky_william/)
 
 ## 
-<div align="center">
-  <a href="https://github.com/MaikyWilliam">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MaikyWilliam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikyWilliam&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+<a href="https://github.com/MaikyWilliam">
+<a href="https://github.com/MaikyWilliam/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaikyWilliam&theme=transparent"" />
+</a>
+<a href="https://github.com/MaikyWilliam/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaikyWilliam&layout=compact&langs_count=8&card_width=320&theme=transparent"" />
+</a>
     
 <!-- ##   -->
 <div style="display: inline_block"><br>
@@ -25,7 +28,5 @@
 </div>
 
 
+<!-- ![Snake animation](https://github.com/MaikyWilliam/MaikyWilliam/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
--->
